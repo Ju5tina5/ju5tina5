@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Justin</h1>
-<h3 align="left">Full-stack beginner JS Developer</h3>
+<h3 align="left">Data Engineer/ JS Developer</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/justinas-pekarskis-112686182/**
 
